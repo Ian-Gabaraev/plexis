@@ -1,5 +1,4 @@
 # pLexis
-pLexis Project
 python & lexis ('word' in Greek) = pLexis
 pLexis is a python application designed for the students of English.
 pLexis helps memorise and learn new vocabulary in an entertaining way. 
