@@ -9,4 +9,4 @@ The main features of pLexis are:
   3. Personal Dictionary
   4. Crossword Puzzle
   
-pLexis is a GUI application: the user interface is built with tkinter.
+pLexis is a GUI application: the user interface is built with wxpython.
